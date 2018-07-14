@@ -80,6 +80,7 @@
 		8E65B7B220FA52CE00ADC425 /* TheMovieDBDecoderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheMovieDBDecoderTests.swift; sourceTree = "<group>"; };
 		8E65B7B720FA575E00ADC425 /* SampleData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleData.swift; sourceTree = "<group>"; };
 		8E65B7BA20FA632900ADC425 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+		8E65B7BC20FA688400ADC425 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +108,7 @@
 				8E65B77620FA072700ADC425 /* TheMovieDBTests */,
 				8E65B7BA20FA632900ADC425 /* Settings.bundle */,
 				8E65B76020FA072400ADC425 /* Products */,
+				8E65B7BC20FA688400ADC425 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
